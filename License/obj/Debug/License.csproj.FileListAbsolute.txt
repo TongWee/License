@@ -1,0 +1,9 @@
+C:\Projects\License\License\bin\Debug\License.exe.config
+C:\Projects\License\License\bin\Debug\License.exe
+C:\Projects\License\License\bin\Debug\License.pdb
+C:\Projects\License\License\obj\Debug\License.csprojResolveAssemblyReference.cache
+C:\Projects\License\License\obj\Debug\License.Form1.resources
+C:\Projects\License\License\obj\Debug\License.Properties.Resources.resources
+C:\Projects\License\License\obj\Debug\License.csproj.GenerateResource.Cache
+C:\Projects\License\License\obj\Debug\License.exe
+C:\Projects\License\License\obj\Debug\License.pdb
